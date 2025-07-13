@@ -1,4 +1,14 @@
-## Hi there 👋
+# About Me:
+I am an embedded software engineer with experience in embedded and robotics systems. Feel free to take a look at some of my pinned projects! Some such as my AutoRover project have plenty of code, while others such as RIDER are pages with pictures and detailed explanations about my role and what I did. The most recent is in the top left, while oldest is in the bottom right. Here is a quick overview of my pinned projects:
+
+## AutoRover
+* A personal project where I developed a rover that could autonomously traverse a 3D simulated environment using Gazebo and ROS2. The rover can autonomously move through an environment while avoiding obstacles to a specified destination. This project was done with as little pre-made libraries as possible, including hand-made SLAM, sensor fusion, path planning, and path tracking/following algorithms, with only a skid drive library used for simplified instructions for control.
+
+## RIDER
+* A previous work project which is a test bed for rover wheels which simulates the lunar surface, including high-fidelity lunar regolith simulant and gravity onloading to simulate lunar gravity. It drives the wheel back and forth across the surface to test it for performance, such as slippage, damage, regolith accumulation, and how the wheel affects the regolith particles.
+
+## Knightr0's Gambit
+* A university club project that focused on creating an automatic chessboard that could move chess pieces, along with an ML-based chess AI that used a mixed supervised and reinforcement learning approach.
 
 <!--
 **JuddBE/JuddBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
